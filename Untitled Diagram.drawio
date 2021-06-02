@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T19:58:07.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="236Bj32Drw6gaVfJyjBr" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T20:06:25.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="tgwryAIMP_AOxTH4MWvN" version="14.7.4" type="github" pages="2">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1192" dy="490" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="1">
+    <mxGraphModel dx="1153" dy="643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,31 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zq_dQKFwFUAup5BKUZUE" name="Page-2">
+    <mxGraphModel dx="1192" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#F4F1DE" math="0" shadow="0">
+      <root>
+        <mxCell id="b7Gt_BC4MSlKYnqF10Yz-0" />
+        <mxCell id="b7Gt_BC4MSlKYnqF10Yz-1" parent="b7Gt_BC4MSlKYnqF10Yz-0" />
+        <UserObject label="PROBLEM UNDERSTANDING" lucidchartObjectId="SgeIpkd57h5~" id="b7Gt_BC4MSlKYnqF10Yz-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=26.7;fontColor=#393C56;fontStyle=1;spacing=9;strokeColor=#E07A5F;strokeOpacity=100;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;fillColor=#F2CC8F;sketch=1;rounded=1;" vertex="1" parent="b7Gt_BC4MSlKYnqF10Yz-1">
+            <mxGeometry x="220" y="344" width="310" height="140" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Healthcare Provider Fraud Detection" lucidchartObjectId="JpeI-rLYJBe8" id="b7Gt_BC4MSlKYnqF10Yz-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;arcSize=50;whiteSpace=wrap;fontSize=28.3;fontColor=#393C56;fontStyle=1;spacing=3.8;strokeColor=#E07A5F;strokeOpacity=100;strokeWidth=2.3;fillColor=#F2CC8F;sketch=1;rounded=1;" vertex="1" parent="b7Gt_BC4MSlKYnqF10Yz-1">
+            <mxGeometry x="670" y="354" width="330" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="b7Gt_BC4MSlKYnqF10Yz-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;curved=1;sketch=1;" edge="1" parent="b7Gt_BC4MSlKYnqF10Yz-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="530" y="413.5" as="sourcePoint" />
+            <mxPoint x="670" y="413.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
